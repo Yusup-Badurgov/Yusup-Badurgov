@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://gifyu.com/image/SckGo"><img src="https://s12.gifyu.com/images/SckGo.gif"/>
-  https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge
-</div>
+<img src="https://gifyu.com/image/SckGo"><img src="https://s12.gifyu.com/images/SckGo.gif"/>
 
 <div id="badges">
   https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge
