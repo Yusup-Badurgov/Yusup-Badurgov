@@ -5,6 +5,7 @@
 <div>
   <a href="https://t.me/yubadurgov">
     <img src="https://img.shields.io/badge/my telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
+    <img src="https://komarev.com/ghpvc/?username=Yusup-Badurgov&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
 
