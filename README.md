@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-
 <div id="badges">
   <img src="https://gifyu.com/image/SckGo"><img src="https://s12.gifyu.com/images/SckGo.gif"/>
   <a href="your-twitter-URL">
