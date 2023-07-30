@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frobotdreams.cc%2Fblog%2F224-kak-rabotat-s-grafikoy-na-python&psig=AOvVaw1Cbmvb8WYzqciDXOkpZcLu&ust=1690800683551000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCE0sKhtoADFQAAAAAdAAAAABAQ" width="100"/>
 </div>
 
 Here are some ideas to get you started:
