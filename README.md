@@ -5,7 +5,6 @@
 <div id="badges">
   https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge
 </div>
-  https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge
 
 Here are some ideas to get you started:
 
