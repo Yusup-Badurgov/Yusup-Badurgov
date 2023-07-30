@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-<img src="https://gifyu.com/image/SckGo"><img src="https://s12.gifyu.com/images/SckGo.gif"/>
+<img src=<img src="https://s12.gifyu.com/images/SckGo.gif"/>
+
 <div>
   <a href="https://t.me/yubadurgov">
     <img src="https://img.shields.io/badge/my telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
