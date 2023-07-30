@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://gifyu.com/image/SckGo"><img src="https://s12.gifyu.com/images/SckGo.gif"/>
-</div>
+<a href="https://gifyu.com/image/SckGo"><img src="https://s12.gifyu.com/images/SckGo.gif" alt="SckGo.gif" border="0" /></a>
 
 Here are some ideas to get you started:
 
