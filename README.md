@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src=<img src="https://s12.gifyu.com/images/SckGo.gif"/>
+<img src="https://s12.gifyu.com/images/SckGo.gif"/>
 
 <div>
   <a href="https://t.me/yubadurgov">
