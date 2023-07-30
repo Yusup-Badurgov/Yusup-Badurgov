@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<img src="https://gifyu.com/image/SckGo"><img src="https://s12.gifyu.com/images/SckGo.gif"/>
+
 
 <div id="badges">
+  <img src="https://gifyu.com/image/SckGo"><img src="https://s12.gifyu.com/images/SckGo.gif"/>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
