@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://ibb.co/vmhp4mF"/>
+  <img src="https://gifyu.com/image/SckON"><img src="https://s11.gifyu.com/images/SckON.gif" alt="SckON.gif"/>
 </div>
 
 Here are some ideas to get you started:
