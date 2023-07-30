@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 
 - 🔭 I'm working on my own project to register clients for various services.
 - 🌱 I’m currently learning
-- 📫 How to reach me: <img src="https://img.shields.io/badge/my telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
+- 📫 How to reach me:
+ <a href="https://t.me/yubadurgov">
+    <img src="https://img.shields.io/badge/my telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/><br>
+  </a>
 
 
 ### 🛠️ Languages and Tools :
