@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-<a href="https://gifyu.com/image/SckGo"><img src="https://s12.gifyu.com/images/SckGo.gif" alt="SckGo.gif" border="0" /></a>
-
+<div id="header" align="center">
+  <img src="https://gifyu.com/image/SckGo"><img src="https://s12.gifyu.com/images/SckGo.gif"/>
+  https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge
+</div>
+<div id="badges">
+  https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
