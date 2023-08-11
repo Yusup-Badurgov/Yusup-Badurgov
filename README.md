@@ -1,22 +1,21 @@
-### Привет! 👋
+### Hi there 👋
 
-<video autoplay loop>
-  <source src="https://s12.gifyu.com/images/SckGo.gif" type="video/gif">
-  Your browser does not support the video tag.
-</video>
+<img src="https://s12.gifyu.com/images/SckGo.gif"/>
 
 <div>
   <a href="https://t.me/yubadurgov">
-    <img src="https://img.shields.io/badge/мой телеграм-blue?logo=telegram&logoColor=white&style=for-the-badge"/><br>
+    <img src="https://img.shields.io/badge/my telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/><br>
     <img src="https://komarev.com/ghpvc/?username=Yusup-Badurgov&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
 
-Вот несколько идей, чтобы вы начали:
+Here are some ideas to get you started:
 
-- 🔭 Работаю над собственным проектом по регистрации клиентов для различных услуг.
+- 🔭 I'm working on my own project to register clients for various services.
 
-### 🛠️ Языки и Инструменты :
+
+
+### 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
@@ -28,6 +27,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" heigth="40"/>&nbsp;
 </div>
 
-### 🔥 Мои статистика:
+
+### 🔥 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yusup-Badurgov&theme=dark&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
